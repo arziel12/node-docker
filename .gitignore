@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+/**/injector.sh
+/**/node_modules/
+/**/tests/**/_output/
+/**/temp/
+/**/cache/
+/**/vendor/
+/**/www/webtemp/
+/**/www/assets/
+
+
+/**/.env.local
+
+/**/config.local.php
